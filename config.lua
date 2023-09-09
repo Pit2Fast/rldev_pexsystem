@@ -15,7 +15,7 @@ Config.Permissions = {
     'freeze'
 }
 
-Config.AdminPexId = 0 --Must be a number, all levels equal to or above this number will be able to give permissions to other players
+Config.AdminPexId = 3 --Must be a number, all levels equal to or above this number will be able to give permissions to other players
 
 -- Confirmation Messages
 Config.PlayerRevive = 'You have revived the player!'
