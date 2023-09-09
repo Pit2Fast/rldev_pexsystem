@@ -37,8 +37,7 @@ CREATE TABLE `permission_levels` (
 -- ----------------------------
 -- Records of permission_levels
 -- ----------------------------
-INSERT INTO `permission_levels` VALUES ('0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0');
-INSERT INTO `permission_levels` VALUES ('1', '0', '1', '1', '1', '0', '0', '0', '1', '0', '1');
+INSERT INTO `permission_levels` VALUES ('1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0');
 INSERT INTO `permission_levels` VALUES ('2', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1');
 INSERT INTO `permission_levels` VALUES ('3', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1');
 
